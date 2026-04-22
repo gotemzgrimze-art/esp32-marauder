@@ -1,0 +1,12 @@
+.pio/
+.vscode/
+build/
+compile_commands.json
+*.bin
+*.elf
+*.map
+*.log
+*.tmp
+*.swp
+*.swo
+*.DS_Store
